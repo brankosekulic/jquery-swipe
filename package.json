@@ -1,6 +1,6 @@
 {
   "name": "jquery-swipe",
-  "version": "1.4.0",
+  "version": "1.1.0",
   "description": "JQuery touch events library",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vast-eng/jquery-swipe.git"
+    "url": "https://github.com/brankosekulic/jquery-swipe.git"
   },
   "keywords": [
     "jquery",
     "swipe",
-    "touch"
+    "touch",
+    "event",
+    "touchstart",
+    "touchmove",
+    "touchend"
   ],
   "author": "Vast",
   "license": "BSD"
