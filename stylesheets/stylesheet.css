@@ -417,3 +417,26 @@ Small Device Styles
   }
 
 }
+
+.s-holder{
+  position: relative;
+  height: 200px;
+  background: white;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+
+.s-menu{
+  width: 150px;
+  height: 200px;
+  background: black;
+}
+
+.s-content{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 200px;
+  background: #0090FF;
+  width: 100%;
+}
